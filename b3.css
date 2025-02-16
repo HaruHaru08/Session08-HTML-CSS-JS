@@ -1,0 +1,100 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #212931;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+table{
+    width: 800px;
+    margin-left:20px ;
+    
+}
+
+.border-color {
+    margin: 20px;
+    border-bottom:3px solid #f56a6a;
+    width: 10%;
+}
+
+.border-color h3{
+    margin-bottom: 10px;
+}
+
+.box-one{
+    width: 30%;
+    border-right:3px solid #f2f2f2;
+}
+
+.box-one h5{
+    font-size: 16px;
+}
+.box-one img {
+    width: 80%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.box-one .text{
+    color: #c6cbcb;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-right: 32px;
+}
+button{
+   background-color: white; 
+   padding: 10px;
+   padding-left: 20px;
+   padding-right: 20px;
+   color: #f66e71;
+   font-size: 10px;
+   margin-top: 20px;
+   border-radius: 5px;
+   border: 3px solid #f78484;
+}
+.box-second {
+    width: 30%;
+    border-right:3px solid #f2f2f2;
+}
+.box-second h5{
+    font-size: 16px;
+    margin: 20px;
+}
+.box-second img {
+    width: 80%;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.box-second .text{
+    color: #c6cbcb;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.box-second button{
+    margin-left: 20px;
+}
+.box-third {
+    width: 30%;
+}
+.box-third h5{
+    font-size: 16px;
+    margin: 20px;
+}
+.box-third img {
+    width: 80%;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.box-third .text{
+    color: #c6cbcb;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.box-third button {
+    margin-left: 20px;
+}
