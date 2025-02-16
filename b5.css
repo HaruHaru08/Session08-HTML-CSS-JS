@@ -41,7 +41,6 @@ button{
     padding-right: 20px;
     padding-left: 20px;
     border-radius: 5px;
-    
     border: 2px solid #e8e8e8;
 }
 .download button{
@@ -52,6 +51,7 @@ button{
     padding-left: 20px;
     border-radius: 5px;
     margin-left: 320px;
+    border: 2px solid #e8e8e8;
 }
 .icon{
     color: #f9f6fb;
